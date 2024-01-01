@@ -12,6 +12,12 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 * 🤝  I'm open to collaborating on project
 * ⚡  I'm secretly batman ... but don't tell anyone
 
+My Repositories
+------------------------
+PROGRAMMING TECHNIQUE : https://github.com/mukhritz/Programming-Technique
+DISCRETE STRUCTURE : https://github.com/mukhritz/Discrete-Structure
+DIGITAL LOGIC : https://github.com/mukhritz/Digital-Logic
+TECHNOLOGY INFORMATION SYSTEM : https://github.com/mukhritz/Technology-Information-System
 ### Skills
 
 <p align="left">
