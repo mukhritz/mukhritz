@@ -12,6 +12,15 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 * 🤝  I'm open to collaborating on project
 * ⚡  Near miss 
 
+Education
+------------------------
+* SM SAINS KOTA TINGGI
+  - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
+* Kolej Mara Kuala Nerang
+  - Foundation in Physical Science (2022 - 2023)
+* UTM
+  - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
+
 My Studies 
 ------------------------
 * PROGRAMMING TECHNIQUE :
