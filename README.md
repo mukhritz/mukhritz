@@ -12,7 +12,7 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 * 🤝  I'm open to collaborating on project
 * ⚡  Near miss 
 
-Education
+🎓Education
 ------------------------
 * SM SAINS KOTA TINGGI
   - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
@@ -21,13 +21,13 @@ Education
 * UTM
   - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
 
-:Certificate: Certificate
+📑Certificate
 ------------------------
 - SPM 8A (6A+,2A,1B)
 - Foundation CGPA 3.97
 - MUET 4.0
 
-Sport
+🥇Sport
 ------------------------
 - Badminton
 - Football
