@@ -10,7 +10,7 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 * ✉️  You can contact me at [iman96859@gmail.com](mailto:iman96859@gmail.com)
 * 🧠  I'm learning github
 * 🤝  I'm open to collaborating on project
-* ⚡  I'm secretly batman ... but don't tell anyone
+* ⚡  Near miss 
 
 My Repositories
 ------------------------
