@@ -31,7 +31,6 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 ------------------------
 - Kedah International Robotic Bowling Competition - Champion
 - National Robotic Competition 2019 - Gold Award
-- 
 
 🥇Sport
 ------------------------
