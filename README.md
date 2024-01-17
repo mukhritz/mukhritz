@@ -12,12 +12,16 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 * 🤝  I'm open to collaborating on project
 * ⚡  Near miss 
 
-My Repositories
+My Studies 
 ------------------------
-* PROGRAMMING TECHNIQUE : https://github.com/mukhritz/Programming-Technique
-* DISCRETE STRUCTURE : https://github.com/mukhritz/Discrete-Structure
-* DIGITAL LOGIC : https://github.com/mukhritz/Digital-Logic
-* TECHNOLOGY INFORMATION SYSTEM : https://github.com/mukhritz/Technology-Information-System
+* PROGRAMMING TECHNIQUE :
+  - https://github.com/mukhritz/Programming-Technique
+* DISCRETE STRUCTURE :
+  - https://github.com/mukhritz/Discrete-Structure
+* DIGITAL LOGIC :
+  - https://github.com/mukhritz/Digital-Logic
+* TECHNOLOGY INFORMATION SYSTEM :
+  - https://github.com/mukhritz/Technology-Information-System
 
 ### Skills
 
