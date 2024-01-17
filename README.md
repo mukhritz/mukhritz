@@ -33,7 +33,7 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 - Football
 - Volleyball
   
-My Studies 
+👨‍🎓 My Studies 
 ------------------------
 * PROGRAMMING TECHNIQUE :
   - https://github.com/mukhritz/Programming-Technique
