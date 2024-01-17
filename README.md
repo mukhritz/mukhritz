@@ -27,16 +27,16 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 - Foundation CGPA 3.97
 - MUET 4.0
 
-📑Award
+🏆Award
 ------------------------
 - Kedah International Robotic Bowling Competition - Champion
 - National Robotic Competition 2019 - Gold Award
 
 🥇Sport
 ------------------------
-- Badminton
-- Football
-- Volleyball
+- Badminton 🏸
+- Football ⚽️
+- Volleyball 🏐
   
 👨‍🎓 My Studies 
 ------------------------
