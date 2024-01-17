@@ -21,7 +21,7 @@ Education
 * UTM
   - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
 
-Certificate
+:Certificate: Certificate
 ------------------------
 - SPM 8A (6A+,2A,1B)
 - Foundation CGPA 3.97
