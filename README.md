@@ -17,13 +17,13 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 * SM SAINS KOTA TINGGI
   - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
 * Kolej Mara Kuala Nerang
-  - Foundation in Physical Science (2022 - 2023)
+  - Foundation in Engineering And Technology (2022 - 2023)
 * UTM
   - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
 
 📑Certificate
 ------------------------
-- SPM 9A 1B (6A+,2A,1A-)
+- SPM 9A (6A+,2A,1A-)
 - Foundation CGPA 4.00
 - MUET 4.0
 
