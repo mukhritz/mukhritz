@@ -29,7 +29,6 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 
 🏆Award
 ------------------------
-- Best Student Award Kolej Mara Kuala Nerang 22/23
 - Kedah International Robotic Bowling Competition - Champion
 - National Robotic Competition 2019 - Gold Award
 
