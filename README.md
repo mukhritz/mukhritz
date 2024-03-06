@@ -23,8 +23,8 @@ I'm a 1st year student in Bachelor of Computer Science (Data Engineering) and I 
 
 📑Certificate
 ------------------------
-- SPM 9A (6A+,2A,1A-)
-- Foundation CGPA 4.00
+- SPM 8A 1B (6A+,2A,1B)
+- Foundation CGPA 3,96
 - MUET 4.0
 
 🏆Award
